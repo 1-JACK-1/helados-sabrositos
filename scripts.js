@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+    window.location.href = "https://helado-sabrosito.netlify.app/";
   // Animaciones de secciones al hacer scroll
   const sections = document.querySelectorAll("section");
   const options = {
